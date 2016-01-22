@@ -1,0 +1,8 @@
+out/*
+!out/.gitkeep
+
+pkg/*
+!pkg/.gitkeep
+
+src/*
+!src/.gitkeep
